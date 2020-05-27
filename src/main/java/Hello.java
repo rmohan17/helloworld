@@ -39,9 +39,9 @@ public class Hello {
         System.out.println(x);
 */
    int x = 4;
-   if (x = =4)
+   if (x ==4)
         {
-        System.out.println("value of x is  4);
+        System.out.println("value of x is  4");
         }
                 else{
             System.out.println(" value of x is not 4");
