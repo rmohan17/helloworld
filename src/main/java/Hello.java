@@ -38,13 +38,13 @@ public class Hello {
         System.out.println(--x);
         System.out.println(x);
 */
-   int x = 4;
-   if (x ==4)
+   int x = 3;
+   if (x !=4)
         {
-        System.out.println("value of x is  4");
+        System.out.println("value of x is not 4");
         }
                 else{
-            System.out.println(" value of x is not 4");
+            System.out.println(" value of x is  4");
         }
 
     }
