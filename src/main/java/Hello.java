@@ -49,7 +49,7 @@ public class Hello {
 */
         int x = 10;
         int y = 20;
-        if(x>y) {
+        if(x<y) {
             System.out.println("true");
         }
         else{
