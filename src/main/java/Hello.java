@@ -58,7 +58,7 @@ public class Hello {
 
         boolean x = true;
         boolean y =  false;
-        if(x||y) {
+        if(x&&y) {
             System.out.println("true");
         }
         else{
