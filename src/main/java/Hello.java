@@ -37,7 +37,7 @@ public class Hello {
          int x = 3;
         System.out.println(--x);
         System.out.println(x);
-*/
+*//*
    int x = 3;
    if (x !=4)
         {
@@ -45,6 +45,15 @@ public class Hello {
         }
                 else{
             System.out.println(" value of x is  4");
+        }
+*/
+        int x = 10;
+        int y = 20;
+        if(x<y) {
+            System.out.println("true");
+        }
+        else{
+            System.out.println("false");
         }
 
     }
