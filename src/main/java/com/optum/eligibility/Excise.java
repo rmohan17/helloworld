@@ -5,6 +5,7 @@ public class Excise {
         //(a+b)squre = ((a*a)+2ab+(b*b))
         int  a = 5;
         int b =  10;
+        String =  "Rani";
         int value = (a*a + 2*a*b + b*b);
         System.out.println("value of the equation is = "+ value);
     }
