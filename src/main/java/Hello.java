@@ -20,27 +20,32 @@ public class Hello {
              char var1= '\u2764';
         System.out.println(var);
         System.out.println(var1);
-         */
-       /* double x= 1.05;
+
+       double x= 1.05;
         double y= 2.55;
         BigDecimal d1 = new BigDecimal("2.05");
         BigDecimal d2 = new BigDecimal("1 .55");
         System.out.println(d1.subtract(d2));
-       */
-/*
+
+
         int  a= 10;
         String b= "20";
         System.out.println(a+20);
         String var =new String("hello");
         System.out.println(var);
-        
- */
 
-        int x = 3;
+         int x = 3;
         System.out.println(--x);
         System.out.println(x);
-
-
+*/
+   int x = 4;
+   if (x = =4)
+        {
+        System.out.println("value of x is  4);
+        }
+                else{
+            System.out.println(" value of x is not 4");
+        }
 
     }
 }
