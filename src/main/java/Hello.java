@@ -47,14 +47,22 @@ public class Hello {
             System.out.println(" value of x is  4");
         }
 */
-        int x = 10;
+       /* int x = 10;
         int y = 20;
         if(x<y) {
             System.out.println("true");
         }
         else{
             System.out.println("false");
-        }
+        }*/
 
+        boolean x = true;
+        boolean y =  false;
+        if(x||y) {
+            System.out.println("true");
+        }
+        else{
+            System.out.println("false");
+        }
     }
 }
