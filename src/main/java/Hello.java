@@ -56,13 +56,33 @@ public class Hello {
             System.out.println("false");
         }*/
 
-        boolean x = true;
+        /*boolean x = true;
         boolean y =  false;
         if(x&&y) {
             System.out.println("true");
         }
-        else{
+        else {
             System.out.println("false");
+        }*/
+           /* int x= 5;
+            int y = 8;
+            if ((x<y)||(x==y)){
+                System.out.println("condition is true");
         }
+            else{
+            System.out.println("condition is false");
+            }
+            */
+        int ageofboy = 21;
+        int ageofgirl = 20;
+        if((ageofboy>=21)&&(ageofgirl>=18)) {
+            System.out.println("ready to get married");
+        }
+        else{
+            System.out.println("wait for it kiddo");
+        }
+
+
+
     }
 }
